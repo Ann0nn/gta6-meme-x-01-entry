@@ -10,6 +10,10 @@ A GTA 6 launch week meme for make.fun's "Post a GTA 6 meme on X" bounty. The mak
 
 The meme is posted on X from a public account, with make.fun and the entrant's play code in the post. `POST.json` names the post's address, and `main.ts` hands it to the grader.
 
+## Live post
+
+The meme is posted live on X: https://x.com/ann0nnnnn/status/2123918576071385490. The post carries the play code `makefun-aqua-raft-saucer`, and the entry is ready to submit.
+
 ## Run it
 
 ```sh
